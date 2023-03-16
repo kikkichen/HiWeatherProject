@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HiWeatherProject</string>
+    <string name="air_weight_micro_m"> 微克/立方米</string>
+</resources>

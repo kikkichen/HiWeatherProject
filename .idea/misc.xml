@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.183" />
+        <entry key="app/src/main/res/drawable/air_weight_progress_shape.xml" value="0.1845" />
+        <entry key="app/src/main/res/drawable/gradient_blue_to_white.xml" value="0.173" />
+        <entry key="app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.1845" />
+        <entry key="app/src/main/res/layout/activity_kanbanniang.xml" value="0.3" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_search_city.xml" value="0.3453125" />
+        <entry key="app/src/main/res/layout/air_weight_cardview.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/detail_card.xml" value="0.3453125" />
+        <entry key="app/src/main/res/layout/gradient_blue_to_white.xml" value="0.3453125" />
+        <entry key="app/src/main/res/layout/list_answer_item.xml" value="0.3453125" />
+        <entry key="app/src/main/res/layout/now_light_weather_block.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/pre_15day_cardview.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/sunrise_and_sunset_cardview.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/test_query_ok.xml" value="0.3453125" />
+        <entry key="app/src/main/res/menu/materialtoolbar_menu.xml" value="0.3453125" />
+        <entry key="app/src/main/res/menu/search_menu.xml" value="0.3453125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

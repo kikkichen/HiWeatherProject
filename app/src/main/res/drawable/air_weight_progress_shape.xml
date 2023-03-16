@@ -1,0 +1,14 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background">
+        <shape>
+            <!--背景色-->
+            <solid android:color="@color/white"></solid>
+        </shape>
+    </item>
+
+    <item>
+    <!--进度条颜色-->
+    <scale android:scaleWidth="100%"
+        android:drawable="@color/green_400"></scale>
+    </item>
+    </layer-list>
